@@ -1,0 +1,12 @@
+body{
+    background-color: indigo;
+    font-family: 'Times New Roman', Times, serif;
+    color:lavender;
+    font-size: 20px;
+}
+hr{
+    border-width: 0; 
+    height: 1px;
+    border-top-width: 1px;
+        
+}

@@ -1,0 +1,23 @@
+body{
+      
+    }
+        .linha{
+            display: flex;
+        width:996px;
+        height:1000px;
+        background-color: brown;        
+    }
+    #col-6{
+        width: 498px;
+        height: auto;
+        background-color: chartreuse;
+    
+    }
+    #col-7{
+        width: 498px;
+        height: auto;
+        background-color: rgb(127, 127, 192);
+        color:white;
+    }
+    
+
